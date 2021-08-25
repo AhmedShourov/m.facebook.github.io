@@ -1,0 +1,116 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	font-family: arial;
+}
+
+.nav{
+	background: #FFFBE2;
+	height: 9rem;
+	width: 100%;
+}
+.nav img{
+	margin: 0 25px;
+
+}
+.nav p{
+	font-size: 40px;
+	color: #636b93;
+	font-weight: 690;
+}
+.face{
+	font-size: 70px;
+	color: #1674eb;
+	font-weight: 630 !important;
+	margin: 30px ;
+}
+.form-control{
+	background: #f5f6f8 !important;
+}
+form{
+	padding: 0px 30px 0px 30px !important;
+	margin-bottom: 30px;
+}
+input{
+	font-size: 43px !important;
+	font-weight: 550 !important;
+	color: #98999b !important;
+	padding: 40px 30px !important;
+	margin: 20px 0 !important;
+	border-radius: 14px !important;
+}
+input::placeholder{
+	font-size: 43px;
+	font-weight: 550;
+	color: #98999b !important;
+	
+}
+.containerr a{
+	text-align: center;
+	font-size: 43px !important;
+	text-decoration: none;
+	color: #1878f3;
+	font-weight: 550 !important;
+
+}
+.row p{
+	font-size: 43px !important;
+}
+.lang{
+	text-decoration: none;
+	font-size: 37px;
+	color: #91949d;
+	font-weight: 540 !important;
+}
+.ft{
+	margin-top: 10rem !important;
+}
+
+footer img{
+	width: 100% !important;
+}
+
+.fg a{
+	text-align: center;
+	font-size: 39px !important;
+	text-decoration: none;
+	color: #1878f3;
+	font-weight: 500;
+}
+
+a{
+	text-decoration: none !important;
+}
+
+.bgi{
+	width: 100%;
+	position: fixed;
+}
+.pos{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+}
+.card{
+	margin-top: 30rem;
+	width: 50vh;
+	height: 20vh;
+	text-align: left !important;
+}
+.card p{
+	font-size: 30px !important;
+	text-decoration: none;
+	color: #a6a6a6;
+	font-weight: 600;
+	margin-top: 2rem;
+}
+.card a{
+	font-size: 34px !important;
+	text-decoration: none;
+	color: 	#1878f3;
+	font-weight: 600;
+	margin-bottom: 2rem;
+	float: right;
+}
